@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://imgur.com/a/wUXa06Q" title="Tippy Calculator" width='' alt="Lanique Peterson Tipping Tippy Calculator Video Walkthrough"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/wUXa06Q" data-context="false" ><a href="//imgur.com/a/wUXa06Q"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Notes
 
