@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://imgur.com/a/wUXa06Q" title="Tippy Calculator" width='' alt="Lanique Peterson, Tipping Tippy Calculator, Video Walkthrough"/>
+<img src="https://imgur.com/a/wUXa06Q" title="Tippy Calculator" width='' alt="Lanique Peterson Tipping Tippy Calculator Video Walkthrough"/>
 
 ## Notes
 
