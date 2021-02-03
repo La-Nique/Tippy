@@ -34,10 +34,10 @@ The following **additional** features are implemented:
 
 ## Notes
 
-This was my first time ever building an iOS application! 
-It was a really fun experience. I loved how I was not only able to code the function of my application but I was also able to fully customize the design of the application as well as. I was able to take basic instructions on constructing the foundation of this application and turned it into something appealing.
-The only challenging area that I encountered dealt with the customizing the style of the app and the I/O keyboard toggle.
-For the background image, I had to take extra steps to place my desired image into this project. With research and experimentation, I was able to figure out how to scale my desired image so that it spanned within bounds and appeared beautifully on the iPhone simulator of Xcode. 
+This was my first time ever building an iOS application! <br>
+It was a really fun experience. I loved how I was not only able to code the function of my application but I was also able to fully customize the design of the application as well as. I was able to take basic instructions on constructing the foundation of this application and turned it into something appealing.<br>
+The only challenging area that I encountered dealt with the customizing the style of the app and the I/O keyboard toggle.<br>
+For the background image, I had to take extra steps to place my desired image into this project. With research and experimentation, I was able to figure out how to scale my desired image so that it spanned within bounds and appeared beautifully on the iPhone simulator of Xcode. <br>
 I was able to persist and execute my idea and I am very happy with my final result!
 
 ## License
