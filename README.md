@@ -1,18 +1,18 @@
 # Tippy-Calculator
 # Pre-work - *Tipping Calculator*
 
-**Tipping Calculator** is a tip calculator application for iOS.
+**Tippy** is a tip calculator application for iOS.
 
 Submitted by: **Lanique Peterson**
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly.
 
 The following **optional** features are implemented:
 
@@ -30,21 +30,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/OT3Dq6f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/OT3Dq6f.gif' title='Lanique Peterson Video Walkthrough' width='' alt='Video Walkthrough of Tipping Calculator by Lanique Peterson' />
 
 ## Notes
 
-Describe any challenges encountered while building the app:
-
-This was my first time ever creating an iOS application! 
-It was a really fun experience, I loved how I was able to complete this project completely fullstack.
+This was my first time ever building an iOS application! 
+It was a really fun experience. I loved how I was not only able to code the function of my application but I was also able to fully customize the design of the application as well as. I was able to take basic instructions on constructing the foundation of this application and turned it into something appealing.
 The only challenging area that I encountered dealt with the customizing the style of the app and the I/O keyboard toggle.
-For the background image, I had to take extra steps to place my desired image into this project 
-and I was able to figure out how to scale the image so that it fit and showed on the iPhone simulator, 
-there were a lot of background researching as to how to create a background, but 
-I was able to excute my idea and I am very happy with my final result.
+For the background image, I had to take extra steps to place my desired image into this project. With research and experimentation, I was able to figure out how to scale my desired image so that it spanned within bounds and appeared beautifully on the iPhone simulator of Xcode. 
+I was able to persist and execute my idea and I am very happy with my final result!
 
 ## License
 
