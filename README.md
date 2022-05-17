@@ -1,5 +1,4 @@
-# Tippy the Calculator
-# *Tipping Calculator*
+# Tippy the Calculator -- *Tipping Calculator*
 
 **Tippy** is a tip calculator application for iOS.
 
@@ -37,7 +36,7 @@ I was able to persist and execute my idea and I am very happy with my final resu
 
 ## License
 
-    Copyright [2021] [Lanique Peterson]
+    Copyright [2022] [Lanique Peterson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
