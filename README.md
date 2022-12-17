@@ -1,19 +1,14 @@
-# Tippy the Calculator -- *Tipping Calculator*
+# Tippy the Calculator: *The Tipping Calculator*
 
-**Tippy** is a tip calculator application for iOS.
+#### **Tippy** is a tip calculator application for iOS devices.
 
-Created by: **Lanique Peterson**
-
-Time spent: **7** hours spent in total
+##### Developed by: **Lanique Peterson**
 
 ## User Stories
 
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly.
-* [x] UI animations
-
-The following **additional** features are implemented:
-
+- [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+- [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly.
+- [x] UI animations
 - [x] Added a 10% tipping option.
 - [x] Added a place holder amount for the bill amount that turns white when amount is enter.
 - [x] Added an image as the background.
@@ -22,17 +17,17 @@ The following **additional** features are implemented:
 - [x] Used eyedropper to customize colors.
 - [x] Customized the navigation bar and text.
 
-## Video Walkthrough
+## App Walkthrough
 
-<img src='https://i.imgur.com/OT3Dq6f.gif' title='Lanique Peterson Video Walkthrough' width='' alt='Video Walkthrough of Tipping Calculator by Lanique Peterson' />
+<img src='https://i.imgur.com/OT3Dq6f.gif' title='Lanique Peterson Video Walkthrough' width='350' alt='App Demo of Tipping Calculator by Lanique Peterson' />
 
 ## Notes
 
-This was my first time ever building an iOS application! <br>
+This was my first time ever building an iOS application!
+
 It was a really fun experience. I loved how I was not only able to code the function of my application but I was also able to fully customize the design of the application as well as. I was able to take basic instructions on constructing the foundation of this application and turned it into something appealing.<br>
 The only challenging area that I encountered dealt with the customizing the style of the app and the I/O keyboard toggle.<br>
-For the background image, I had to take extra steps to place my desired image into this project. With research and experimentation, I was able to figure out how to scale my desired image so that it spanned within bounds and appeared beautifully on the iPhone simulator of Xcode. <br>
-I was able to persist and execute my idea and I am very happy with my final result!
+For the background image, I had to take extra steps to place my desired image into this project. With research and experimentation, I was able to figure out how to scale my desired image so that it spanned within bounds and appeared beautifully on the iPhone simulator of Xcode. I was able to persist and execute my idea and I am very happy with my final result!
 
 ## License
 
